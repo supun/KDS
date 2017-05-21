@@ -1,4 +1,4 @@
-# KDS Sample Applicatio
+# KDS Sample Application
 
 Run the Spring boot app using KdsApplication.java class
 
